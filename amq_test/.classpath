@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/activemq-all-5.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/amq-client.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/ezmorph-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="D:/开发任务/开发任务/集中操作/集中操作改版/lib/lib/slf4j-nop-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
